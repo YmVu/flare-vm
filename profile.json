@@ -20,13 +20,6 @@
         {"name": "libraries.python2.fireeye"},
         {"name": "libraries.python3.fireeye"},
 
-        {"name": "ollydbg.flare"},
-        {"name": "ollydbg.ollydump.flare"},
-        {"name": "ollydbg.ollydumpex.flare"},
-
-        {"name": "ollydbg2.flare"},
-        {"name": "ollydbg2.ollydumpex.flare"},
-
         {"name": "x64dbg.flare"},
         {"name": "x64dbg.py.flare"},
         {"name": "x64dbg.ollydumpex.fireeye"},
@@ -41,15 +34,10 @@
 
         {"name": "idafree70.flare", "x64Only": true},
         {"name": "idafree.flare"},
-        {"name": "binaryninja.flare"},
-        {"name": "radare2.flare"},
-        {"name": "cutter.flare"},
         {"name": "ghidra.fireeye"},
 
 
-        {"name": "ilspy.flare"},
         {"name": "dnspy.flare"},
-        {"name": "dotpeek.flare"},
         {"name": "de4dot.flare"},
         {"name": "dnsd.flare"},
         {"name": "rundotnetdll.flare"},
@@ -69,7 +57,6 @@
 
         {"name": "ffdec.flare"},
 
-        {"name": "kali_windowsbinaries.flare"},
 
         {"name": "volatility.flare", "x64Only": true},
         {"name": "Autospy.fireeye"},
@@ -90,7 +77,6 @@
         {"name": "processdump.fireeye"},
 
 
-        {"name": "sublimetext3"},
         {"name": "notepadplusplus.flare"},
 
         {"name": "SilkETW.fireeye"},
@@ -105,7 +91,6 @@
         {"name": "winpcap"},
         {"name": "rawcap"},
         {"name": "wget"},
-        {"name": "bytehist.fireeye"},
         {"name": "upx"},
         {"name": "processhacker.flare"},
         {"name": "sysinternals.flare"},
@@ -147,19 +132,11 @@
 
         {"name": "nasm.fireeye"},
 
-        {"name": "vim.flare"},
-        {"name": "cygwin.flare"},
-
         {"name": "retdec.flare"},
         {"name": "MAP.flare"},
         {"name": "SysAnalyzer.flare"},
-        {"name": "pmalabs.flare"},
 
         {"name": "PSDecode.fireeye"},
-
-        {"name": "burp.free.fireeye"},
-        {"name": "fiddler.fireeye"},
-        {"name": "HTTrack.fireeye"},
 
         {"name": "malware-jail.fireeye"},
 
